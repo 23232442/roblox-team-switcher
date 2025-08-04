@@ -20,6 +20,7 @@ body {
 h1 {
     text-align: center;
     color: #333;
+    margin-bottom: 20px;
 }
 
 .form-group {
@@ -58,6 +59,7 @@ button:hover {
     margin-top: 15px;
     padding: 10px;
     border-radius: 4px;
+    text-align: center;
     display: none;
 }
 
